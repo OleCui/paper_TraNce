@@ -1,5 +1,5 @@
 # paper_TraNce
-This is the PyTorch implementation for paper "Disentangled Hypergraph Neural Network for Drug Repositioning".
+This is the PyTorch implementation for paper "TraNce: Type-aware Hypergraph Neural Network with Biological Mediators for Drug Repositioning".
 
 ## Introduction
 
