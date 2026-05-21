@@ -1,4 +1,4 @@
-# paper_DiGGS
+# paper_TraNce
 This is the PyTorch implementation for paper "Disentangled Hypergraph Neural Network for Drug Repositioning".
 
 ## Introduction
@@ -7,7 +7,7 @@ This is the PyTorch implementation for paper "Disentangled Hypergraph Neural Net
 <img src='model.png'>
 
 ## Environment:
-The codes of DiGGS are implemented and tested under the following development environment:
+The codes of TraNce are implemented and tested under the following development environment:
 -  Python 3.8.19
 -  cudatoolkit 11.5
 -  pytorch 1.10.0
